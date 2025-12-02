@@ -57,3 +57,5 @@ CAMPAIGN_URL=''
 ```bash
 node watch-donation.mjs
 ```
+
+ℹ️ set INTERVAL_MS as you wish, but better don't below 5 minutes.
